@@ -64,4 +64,5 @@ Uygulamanın işlevselliği JSON Server üzerinde test edildi.
 Kullanıcı deneyimi iyileştirmeleri yapıldı.</h6>
 
 <h5>Gif dosyası eklendi</h5>
+
 ![](tanıtım.gif)
